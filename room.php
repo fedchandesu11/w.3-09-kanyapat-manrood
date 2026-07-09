@@ -20,9 +20,9 @@
     <table border=1>
         <thead>
             <th>รหัสรายการ</th>
-            <th>ชื่อผู้เข้าพัก</th>
-            <th>ชำระเงิน</th>
-            <th>ประเภท</th>
+            <th>smoke</th>
+            <th>bathtub</th>
+            <th>price</th>
             <th>ห้อง</th>
            
         </thead>
